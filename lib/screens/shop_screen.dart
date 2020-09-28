@@ -39,6 +39,7 @@ class _ShopScreenState extends State<ShopScreen>
         );
       },
       child: GestureDetector(
+        // code
         onTap: () {
           Navigator.push(
             context,
